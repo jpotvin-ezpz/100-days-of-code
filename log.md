@@ -10,7 +10,7 @@
 
 ### Day 0: November 02, 2020
 
-**Today's Progress**: Learned About Regular Expressions
+**Today's Progress**: Learned about Regular Expressions
 
 **Thoughts**: When I initially worked through the Regular Expressions section in the FCC curriculum I found the last few problems to be really difficult and after I solved them I didn't really have a better understanding of how things worked. So I'm glad I revisited it and went through a more **visual** guide. 
 
