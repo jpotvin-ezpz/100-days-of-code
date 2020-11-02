@@ -2,11 +2,11 @@
 
 ### Day 0: Nov 02, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Created a New Front-End Syllabus using FreeCodeCamp's Curriculum, Nikita Rudenko's Advice, and Roadmap.sh 
 
-**Thoughts:**
+**Thoughts:** I'm excited to commit to 100daysofcode and hopefully start making exponentially more progress on learning Front-End Web Development
 
-**Link to work:**
+**Link to work:** [Here](https://www.freecodecamp.org/news/a-practical-guide-to-learning-front-end-development-for-beginners-da6516505e41/), [Here](https://www.freecodecamp.org/learn), and [Here](https://roadmap.sh/)
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
