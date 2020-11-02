@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: Nov 02, 2020
+### Day 0: November 02, 2020
 
 **Today's Progress**: Created a New Front-End Syllabus using FreeCodeCamp's Curriculum, Nikita Rudenko's Advice, and Roadmap.sh 
 
@@ -8,22 +8,34 @@
 
 **Link to work:** [Here](https://www.freecodecamp.org/news/a-practical-guide-to-learning-front-end-development-for-beginners-da6516505e41/), [Here](https://www.freecodecamp.org/learn), and [Here](https://roadmap.sh/)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 0: November 02, 2020
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Learned About Regular Expressions
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: When I initially worked through the Regular Expressions section in the FCC curriculum I found the last few problems to be really difficult and after I solved them I didn't really have a better understanding of how things worked. So I'm glad I revisited it and went through a more **visual** guide. 
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: https://scrimba.com/learn/regularexpressions
 
+### Day 1: November 03, 2020
 
-### Day 1: June 27, Monday
+**Today's Progress**:
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Thoughts**: 
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Link(s) to work**:
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+### Day _: 
+
+**Today's Progress**:
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+### Day _: 
+
+**Today's Progress**:
+
+**Thoughts**: 
+
+**Link(s) to work**:
