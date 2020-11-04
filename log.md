@@ -32,6 +32,24 @@
 
 **Link(s) to work**: https://freecodecamp.org, https://barbaraoakley.com/books/a-mind-for-numbers/
 
+### Day 04: 
+
+**Today's Progress**: Finished Module 4 of Beginner JS, Watched all of Brad Traversy' Roadmap video
+
+**Thoughts**: Cardio took about 2 hours, it was fun, I got to see my weaknesses, but I was also very happy to be able to test myself. Will definitely use WesBos' courses in the future as his teaching style works super well with me.
+
+**Link(s) to work**: Traversy Media, Beginner JavaScript by WesBos
+
+
+### Day _: 
+
+**Today's Progress**:
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+
 ### Day _: 
 
 **Today's Progress**:
