@@ -26,11 +26,11 @@
 
 ### Day 02: November 04, 2020
 
-**Today's Progress**:
+**Today's Progress**: In the AM, solved JS Algorithm Problem
 
-**Thoughts**: 
+**Thoughts**: I have to remember to continually apply the principles from *A Mind For Numbers* so I can practice the meta-skill of problem solving. 
 
-**Link(s) to work**:
+**Link(s) to work**: https://freecodecamp.org, https://barbaraoakley.com/books/a-mind-for-numbers/
 
 ### Day _: 
 
