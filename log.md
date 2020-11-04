@@ -16,15 +16,15 @@
 
 **Link(s) to work**: https://scrimba.com/learn/regularexpressions
 
-### Day 1: November 03, 2020
+### Day 01: November 03, 2020
 
-**Today's Progress**:
+**Today's Progress**: Finished Regular Expressions, Worked *almost* all the way through the 4th Beginner JS module (DOM)
 
-**Thoughts**: 
+**Thoughts**: When it comes to learning JS, it seems more complicated than it actually ends up being. It seems to be a language that grew organically. There was some pre-thought paths but it seems like new problems came up, they make a solution, and so and so fother. 
 
-**Link(s) to work**:
+**Link(s) to work**: https://beginnerjavascript.com/ , https://scrimba.com/learn/regularexpressions
 
-### Day _: 
+### Day 02: November 04, 2020
 
 **Today's Progress**:
 
