@@ -32,7 +32,7 @@
 
 **Link(s) to work**: https://freecodecamp.org, https://barbaraoakley.com/books/a-mind-for-numbers/
 
-### Day 04: 
+### Day 02: November 04, 2020
 
 **Today's Progress**: Finished Module 4 of Beginner JS, Watched all of Brad Traversy' Roadmap video
 
@@ -41,13 +41,13 @@
 **Link(s) to work**: Traversy Media, Beginner JavaScript by WesBos
 
 
-### Day _: 
+### Day 03: November 05, 2020 
 
-**Today's Progress**:
+**Today's Progress**: Practiced JS Cardio twice.
 
-**Thoughts**: 
+**Thoughts**:  Doing the *A Mind for Numbers* method for building a powerful chunk and really trying to nail down the fundamentals of JavaScript in the DOM
 
-**Link(s) to work**:
+**Link(s) to work**: Beginner JavaScript
 
 
 ### Day _: 
