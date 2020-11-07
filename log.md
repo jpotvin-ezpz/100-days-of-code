@@ -50,10 +50,10 @@
 **Link(s) to work**: Beginner JavaScript
 
 
-### Day _: 
+### Day 04: November 07, 2020 
 
-**Today's Progress**:
+**Today's Progress**: Another repetition of JS Cardio today, another Algorithm problem in FCC
 
-**Thoughts**: 
+**Thoughts**: Still doing *Mind for Numbers* method, on vacation in Indiana right now. So am not coding everyday but still trying to keep the habit.
 
-**Link(s) to work**:
+**Link(s) to work**: Beginner JavaScript, FreeCodeCamp
