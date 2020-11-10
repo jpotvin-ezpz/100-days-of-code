@@ -57,3 +57,38 @@
 **Thoughts**: Still doing *Mind for Numbers* method, on vacation in Indiana right now. So am not coding everyday but still trying to keep the habit.
 
 **Link(s) to work**: Beginner JavaScript, FreeCodeCamp
+
+### Day 05: November 10, 2020 
+
+**Today's Progress**: Beginner JavaScript Module #5, Lesson 1... Anki and FreeCodeCamp 
+
+**Thoughts**: Took a much needed vacation, now I'm more focused and motivated than I have been in months.
+
+**Link(s) to work**: Beginner JS by Wes Bos, FreeCodeCamp
+
+
+### Day _: 
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**: 
+
+
+### Day _: 
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**: 
+
+
+### Day _: 
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**: 
