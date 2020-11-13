@@ -76,13 +76,13 @@
 **Link(s) to work**: FreeCodeCamp.org
 
 
-### Day _: 
+### Day 07: November 13, 2020 
 
-**Today's Progress**:
+**Today's Progress**: Event Listeners Module, FreeCodeCamp basic algorithm scripting 
 
-**Thoughts**:
+**Thoughts**: 
 
-**Link(s) to work**: 
+**Link(s) to work**: wesbos Beginner JavaScript, freecodecamp 
 
 
 ### Day _: 
