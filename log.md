@@ -67,13 +67,13 @@
 **Link(s) to work**: Beginner JS by Wes Bos, FreeCodeCamp
 
 
-### Day _: 
+### Day 06: November 12, 2020 
 
-**Today's Progress**:
+**Today's Progress**: Worked on my brother's website and did freecodecamp algorithms
 
-**Thoughts**:
+**Thoughts**: Steady as she goes
 
-**Link(s) to work**: 
+**Link(s) to work**: FreeCodeCamp.org
 
 
 ### Day _: 
