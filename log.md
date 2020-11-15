@@ -85,6 +85,38 @@
 **Link(s) to work**: wesbos Beginner JavaScript, freecodecamp 
 
 
+### Day 08: November 14, 2020 
+
+**Today's Progress**: More events, freecode camp basic algorithms done
+
+**Thoughts**: Still feel like an imposter but that's par for the course. Just got to keep the momentum
+
+**Link(s) to work**: freecodecamp, wesbos beginner javascript
+
+### Day _: 
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**: 
+
+### Day _: 
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**: 
+
+### Day _: 
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**: 
+
 ### Day _: 
 
 **Today's Progress**:
