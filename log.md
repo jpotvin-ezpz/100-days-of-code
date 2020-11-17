@@ -93,21 +93,21 @@
 
 **Link(s) to work**: freecodecamp, wesbos beginner javascript
 
-### Day _: 
+### Day 09: November 16, 2020 
 
-**Today's Progress**:
+**Today's Progress**: Net Ninja Intro to Object Oriented Programming
 
-**Thoughts**:
+**Thoughts**: Don't need to do this right now, I'm going to prioritize finishing WesBos' course before moving forward with anything else.
 
-**Link(s) to work**: 
+**Link(s) to work**: https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg 
 
-### Day _: 
+### Day 10: November 17, 2020 
 
-**Today's Progress**:
+**Today's Progress**: Finished Module 5 and Etch-a-Sketch Exercise
 
-**Thoughts**:
+**Thoughts**: The more consistent, the more it sticks, just got to sit down and focus
 
-**Link(s) to work**: 
+**Link(s) to work**: https:/beginnerjavascript.com/
 
 ### Day _: 
 
