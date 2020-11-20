@@ -117,6 +117,14 @@
 
 **Link(s) to work**: https://beginnerjavascript.com 
 
+### Day 12: November 20, 2020 
+
+**Today's Progress**: Finished Module 7 
+
+**Thoughts**: A module a day keeps the doctor away?
+
+**Link(s) to work**: https://beginnerjavascript.com
+
 ### Day _: 
 
 **Today's Progress**:
@@ -124,3 +132,32 @@
 **Thoughts**:
 
 **Link(s) to work**: 
+
+
+### Day _: 
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**: 
+
+
+### Day _: 
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**: 
+
+
+### Day _: 
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**: 
+
+
