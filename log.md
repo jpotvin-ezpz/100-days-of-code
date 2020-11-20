@@ -109,13 +109,13 @@
 
 **Link(s) to work**: https:/beginnerjavascript.com/
 
-### Day _: 
+### Day 11: November 19, 2020 
 
-**Today's Progress**:
+**Today's Progress**: Finished Module 6!
 
-**Thoughts**:
+**Thoughts**: 
 
-**Link(s) to work**: 
+**Link(s) to work**: https://beginnerjavascript.com 
 
 ### Day _: 
 
