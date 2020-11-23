@@ -125,13 +125,13 @@
 
 **Link(s) to work**: https://beginnerjavascript.com
 
-### Day _: 
+### Day 13: November 23, 2020 
 
-**Today's Progress**:
+**Today's Progress**: Completed half of Module 8 and the entire "Intro to Object Oriented Programming" section on FCC
 
-**Thoughts**:
+**Thoughts**: Just gotta stay focused and put in the hours
 
-**Link(s) to work**: 
+**Link(s) to work**: https://beginnerjavascript.com https://freecodecamp.org
 
 
 ### Day _: 
