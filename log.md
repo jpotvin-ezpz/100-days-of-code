@@ -134,13 +134,13 @@
 **Link(s) to work**: https://beginnerjavascript.com https://freecodecamp.org
 
 
-### Day _: 
+### Day 14: November 24, 2020 
 
-**Today's Progress**:
+**Today's Progress**: FreeCodeCamp and one thirty minute lesson on Arrays on Wesbos(review)
 
-**Thoughts**:
+**Thoughts**: Functional programming seems incredibly tedious, but that tediousness gives you stability
 
-**Link(s) to work**: 
+**Link(s) to work**: https://freecodecamp.org https://beginnerjavascript.com
 
 
 ### Day _: 
