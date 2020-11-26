@@ -143,13 +143,13 @@
 **Link(s) to work**: https://freecodecamp.org https://beginnerjavascript.com
 
 
-### Day _: 
+### Day 15: November 26, 2020 
 
-**Today's Progress**:
+**Today's Progress**: Array Cardio
 
-**Thoughts**:
+**Thoughts**: Thanksgiving Day, still fit in some practice
 
-**Link(s) to work**: 
+**Link(s) to work**: https://beginnerjavascript.com
 
 
 ### Day _: 
