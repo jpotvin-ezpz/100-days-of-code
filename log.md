@@ -152,12 +152,226 @@
 **Link(s) to work**: https://beginnerjavascript.com
 
 
-### Day _: 
+### Day 16: November 27th,2020
+
+**Today's Progress**: Finished Array Cardio
+
+**Thoughts**: 
+
+**Link(s) to work**: https://beginnerjavascript.com
+
+### Day 17: November 28th,2020
+
+**Today's Progress**: Started Module 9 and solved 20+ problems on FCC, finishing the Functional Programming module
+
+**Thoughts**: Really applied myself and coded for a long time, used the RSA method and wrote notes, didn't give up to early when things got difficult, but If I couldn't figure it out I humbled myself, asked the question, found the answer, and applied it, then checked for actual understanding and not the illusion of competancy. 
+
+**Link(s) to work**: https://beginnerjavascript.com https://freecodecamp.org
+
+### Day __:
 
 **Today's Progress**:
 
 **Thoughts**:
 
-**Link(s) to work**: 
+**Links(s) to work**:
 
+### Day __:
 
+**Today's Progress**:
+
+**Thoughts**:
+
+**Links(s) to work**:
+
+### Day __:
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Links(s) to work**:
+
+### Day __:
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Links(s) to work**:
+
+### Day __:
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Links(s) to work**:
+
+### Day __:
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Links(s) to work**:
+
+### Day __:
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Links(s) to work**:
+
+### Day __:
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Links(s) to work**:
+
+### Day __:
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Links(s) to work**:
+
+### Day __:
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Links(s) to work**:
+
+### Day __:
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Links(s) to work**:
+
+### Day __:
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Links(s) to work**:
+
+### Day __:
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Links(s) to work**:
+
+### Day __:
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Links(s) to work**:
+
+### Day __:
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Links(s) to work**:
+
+### Day __:
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Links(s) to work**:
+
+### Day __:
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Links(s) to work**:
+
+### Day __:
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Links(s) to work**:
+
+### Day __:
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Links(s) to work**:
+
+### Day __:
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Links(s) to work**:
+
+### Day __:
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Links(s) to work**:
+
+### Day __:
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Links(s) to work**:
+
+### Day __:
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Links(s) to work**:
+
+### Day __:
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Links(s) to work**:
+
+### Day __:
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Links(s) to work**:
+
+### Day __:
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Links(s) to work**:
