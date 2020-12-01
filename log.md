@@ -168,13 +168,13 @@
 
 **Link(s) to work**: https://beginnerjavascript.com https://freecodecamp.org
 
-### Day __:
+### Day 18:
 
-**Today's Progress**:
+**Today's Progress**: Finished two intermediate algorithm problems from FCC and a module from Wesbos
 
-**Thoughts**:
+**Thoughts**: Was super busy today, but still managed to fit it all in. 
 
-**Links(s) to work**:
+**Links(s) to work**: https://beginnerjavascript.com https://freecodecamp.org
 
 ### Day __:
 
