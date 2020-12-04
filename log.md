@@ -168,7 +168,7 @@
 
 **Link(s) to work**: https://beginnerjavascript.com https://freecodecamp.org
 
-### Day 18:
+### Day 18: December 1st, 2020
 
 **Today's Progress**: Finished two intermediate algorithm problems from FCC and a module from Wesbos
 
@@ -176,29 +176,29 @@
 
 **Links(s) to work**: https://beginnerjavascript.com https://freecodecamp.org
 
-### Day __:
+### Day 19: December 2nd, 2020
 
-**Today's Progress**:
+**Today's Progress**: more exericses
 
-**Thoughts**:
+**Thoughts**: 
 
-**Links(s) to work**:
+**Links(s) to work**: https://beginnerjavascript.com
 
-### Day __:
+### Day 20: December 3rd. 2020
 
-**Today's Progress**:
+**Today's Progress**: Got stuck the Wherefore Art thou algorithm for an incredibly long time.
 
-**Thoughts**:
+**Thoughts**: really tried to solve the problem on my own, realized i was missing a lot of knowledge on how the array methods worked, so i studied array methods for the rest of the day, looked up a stepped solutions and worked all the way through the problem piecewise until I knew I had it down pat. 
 
-**Links(s) to work**:
+**Links(s) to work**: https://freecodecamp.org
 
-### Day __:
+### Day 21:December 4th, 2020
 
-**Today's Progress**:
+**Today's Progress**: Did another repetition of the *Wherefore Art Thou* Intermediate Algorithm problem on FreeCodeCamp to further solidify my understanding, then I did a ton of exercises from WesBos' Course
 
-**Thoughts**:
+**Thoughts**: Again, *A Mind For Numbers* is a fantastic resource for learning complex topics
 
-**Links(s) to work**:
+**Links(s) to work**: https://freecodecamp.org https://beginnerjavascript.com
 
 ### Day __:
 
