@@ -200,21 +200,21 @@
 
 **Links(s) to work**: https://freecodecamp.org https://beginnerjavascript.com
 
-### Day __:
+### Day 22: December 5th, 2020
 
-**Today's Progress**:
-
-**Thoughts**:
-
-**Links(s) to work**:
-
-### Day __:
-
-**Today's Progress**:
+**Today's Progress**: About 1/3rd of ES6 Complete Developers Guide
 
 **Thoughts**:
 
-**Links(s) to work**:
+**Links(s) to work**:  https://www.udemy.com/course/javascript-es6-tutorial/learn/lecture/5417860#questions
+
+### Day 23: December 7th, 2020
+
+**Today's Progress**: Few modules of ES6 Developer's Guide
+
+**Thoughts**:
+
+**Links(s) to work**: https://www.udemy.com/course/javascript-es6-tutorial/learn/lecture/5417860#questions
 
 ### Day __:
 
