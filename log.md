@@ -216,13 +216,13 @@
 
 **Links(s) to work**: https://www.udemy.com/course/javascript-es6-tutorial/learn/lecture/5417860#questions
 
-### Day __:
+### Day 24: December 11th, 2020
 
-**Today's Progress**:
+**Today's Progress**: Modules 13-14 of ES6 Developer's Guide
 
-**Thoughts**:
+**Thoughts**: I had to stop at the last exercise on module 14 because it's difficult and I don't understand destructuring as well as I'd like to be happy moving on with my subpar solution. I'll come back to the problem tomorrow and review material so I can better grasp how to solve the problem
 
-**Links(s) to work**:
+**Links(s) to work**: https://www.udemy.com/course/javascript-es6-tutorial/learn/lecture/5417860#questions
 
 ### Day __:
 
