@@ -224,13 +224,13 @@
 
 **Links(s) to work**: https://www.udemy.com/course/javascript-es6-tutorial/learn/lecture/5417860#questions
 
-### Day __:
+### Day 25: December 16th, 2020
 
-**Today's Progress**:
+**Today's Progress**: Harder Practice Exercise: Gallery Slider
 
-**Thoughts**:
+**Thoughts**: Got back from vacation, tried to get in some work but seeing my family is more important so I set aside evrrything for that
 
-**Links(s) to work**:
+**Links(s) to work**: https://beginnerjavascript.com
 
 ### Day __:
 
