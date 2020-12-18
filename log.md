@@ -232,13 +232,13 @@
 
 **Links(s) to work**: https://beginnerjavascript.com
 
-### Day __:
+### Day 26: December 17th, 2020
 
-**Today's Progress**:
+**Today's Progress**: Completed the last *harder practice* exercise of the module and worked on the markdown of my new personal training website 
 
-**Thoughts**:
+**Thoughts**: Using my knowledge towards actual real world projects is going to be a massive benefit to my learning, i was strugglign to remember simple html and css syntax and concepts today as I was creating the foundation of my website. Good thing i decided to make it because it's already quickly coming back.
 
-**Links(s) to work**:
+**Links(s) to work**: https://beginnerjavascript.com
 
 ### Day __:
 
