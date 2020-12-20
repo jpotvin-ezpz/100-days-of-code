@@ -240,21 +240,21 @@
 
 **Links(s) to work**: https://beginnerjavascript.com
 
-### Day __:
+### Day 27: December 18th, 2020
 
-**Today's Progress**:
-
-**Thoughts**:
-
-**Links(s) to work**:
-
-### Day __:
-
-**Today's Progress**:
+**Today's Progress**: Wesbos exercises
 
 **Thoughts**:
 
-**Links(s) to work**:
+**Links(s) to work**: https://beginnerjavascript.com
+
+### Day 28: December 19th, 2020
+
+**Today's Progress**: wesbos and freecodecamp algorithm exercise
+
+**Thoughts**: Going to start applying the good learning principles that i read about before but didn't stick to applying.
+
+**Links(s) to work**: https://beginnerjavascript.com https://freecodecamp.org
 
 ### Day __:
 
