@@ -256,13 +256,13 @@
 
 **Links(s) to work**: https://beginnerjavascript.com https://freecodecamp.org
 
-### Day __:
+### Day 29: December 21st, 2020
 
-**Today's Progress**:
+**Today's Progress**: Wesbos module and 3 FCC algorithm challenges
 
-**Thoughts**:
+**Thoughts**: Practice makes perfect
 
-**Links(s) to work**:
+**Links(s) to work**: https://freecodecamp.org https://beginnerjavascript.com
 
 ### Day __:
 
