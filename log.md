@@ -264,7 +264,15 @@
 
 **Links(s) to work**: https://freecodecamp.org https://beginnerjavascript.com
 
-### Day __:
+### Day 30-36: December 22nd-29th (except for Sunday the 27th)
+
+**Today's Progress**: I was rather busy with Holidays but I did get coding time in and averaged about a problem a day except for the day I am writing this (the 29th). Today I finished 3 intermediate algorithm problems and finished the entire module! All that is left is the final five projects and i am done with the JavaScript Curriculum
+
+**Thoughts**: "Don't waste your time struggling and trying to reinvent the wheel with the pre-es6 problems, it would be much better to plow through and use that saved time deep diving on modern technologies like React and Node sooner rather than later.
+
+**Links(s) to work**: https://freecodecamp.org
+
+### Day 31:
 
 **Today's Progress**:
 
@@ -272,7 +280,7 @@
 
 **Links(s) to work**:
 
-### Day __:
+### Day 32:
 
 **Today's Progress**:
 
@@ -280,7 +288,7 @@
 
 **Links(s) to work**:
 
-### Day __:
+### Day 33:
 
 **Today's Progress**:
 
@@ -288,15 +296,7 @@
 
 **Links(s) to work**:
 
-### Day __:
-
-**Today's Progress**:
-
-**Thoughts**:
-
-**Links(s) to work**:
-
-### Day __:
+### Day 34:
 
 **Today's Progress**:
 
