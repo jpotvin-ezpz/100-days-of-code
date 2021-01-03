@@ -272,21 +272,21 @@
 
 **Links(s) to work**: https://freecodecamp.org
 
-### Day 31:
+### Day 31: December 30th, 2021
 
-**Today's Progress**:
+**Today's Progress**: Algorithm Final Project 1
+
+**Thoughts**: 
+
+**Links(s) to work**: https://freecodecamp.org
+
+### Day 32: January 2nd, 2021
+
+**Today's Progress**: Algorithm Final Project 2
 
 **Thoughts**:
 
-**Links(s) to work**:
-
-### Day 32:
-
-**Today's Progress**:
-
-**Thoughts**:
-
-**Links(s) to work**:
+**Links(s) to work**: https://freecodecamp.org
 
 ### Day 33:
 
