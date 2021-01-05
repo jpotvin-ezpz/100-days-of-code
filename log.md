@@ -288,13 +288,13 @@
 
 **Links(s) to work**: https://freecodecamp.org
 
-### Day 33:
+### Day 33: January 4th
 
-**Today's Progress**:
+**Today's Progress**: Algorithm's Final Projects 3 & 4
 
-**Thoughts**:
+**Thoughts**: Having undivided focus and a **growth** mindset is the biggest benefit to my problem solving. As well as **reducing the problem** into simpler and simpler forms
 
-**Links(s) to work**:
+**Links(s) to work**: https://freecodecamp.org
 
 ### Day 34:
 
