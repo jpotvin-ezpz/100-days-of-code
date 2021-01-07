@@ -296,21 +296,21 @@
 
 **Links(s) to work**: https://freecodecamp.org
 
-### Day 34:
+### Day 34: January 5th, 2021
 
-**Today's Progress**:
+**Today's Progress**: finished cash register problem
 
-**Thoughts**:
+**Thoughts**: although the solution was messy and took me a long time, I did it on my own and I'm happy.
 
-**Links(s) to work**:
+**Links(s) to work**: https://freecodecamp.org 
 
-### Day __:
+### Day 35: January 6th, 2021
 
-**Today's Progress**:
+**Today's Progress**: Since my solution was so sloppy and inefficient and since it would remain on my profile I went back and redid the Csah Register problem.
 
-**Thoughts**:
+**Thoughts**: Reviewing work is helpful in solidyifying problem solving skills and this time it took about half the time as before and I did it more efficiently
 
-**Links(s) to work**:
+**Links(s) to work**: https://freecodecamp.org
 
 ### Day __:
 
