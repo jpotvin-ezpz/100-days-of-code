@@ -1,10 +1,10 @@
 ### Day 01: January 18th, 2021
 
-**Today's Progress**: WesBos 30daysofJS Project and BeginnerJavaScript Modules
+**Today's Progress**: Front end libraries Certificate for 3 hours, one 30days of js project
 
 **Thoughts**: Gotta quiz myself more to avoid illusions of competence.
 
-**Links(s) to work**: https://wesbos.com
+**Links(s) to work**: https://wesbos.com https://www.freecodecamp.org/jpotvin
 
 ### Day __:
 
