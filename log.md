@@ -6,13 +6,13 @@
 
 **Links(s) to work**: https://wesbos.com https://www.freecodecamp.org/jpotvin
 
-### Day __:
+### Day 02: January 19th, 2021
 
-**Today's Progress**:
+**Today's Progress**: Made a ton of progress: Ranked up in Codewars from 8kyu->7kyu, practiced the first project on js30 again, built the 2nd project. Went through some front-end libraries problems.
 
-**Thoughts**:
+**Thoughts**:  https://wesbos.com https://www.freecodecamp.org/jpotvin https://www.codewars.com/users/jpotvin-ezpz
 
-**Links(s) to work**:
+**Links(s) to work**: 
 
 ### Day __:
 
