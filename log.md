@@ -14,13 +14,13 @@
 
 **Links(s) to work**: 
 
-### Day __:
+### Day 03: January 20th, 2021
+ 
+**Today's Progress**: Building a discord bot! 
 
-**Today's Progress**:
+**Thoughts**: Projects definitely are the best way to test my understanding and see what I'm strugglign with when 'thrown into the deep' as it were.
 
-**Thoughts**:
-
-**Links(s) to work**:
+**Links(s) to work**: Can't link the bot to github because of a token that would compromise my discord server's security 
 
 ### Day __:
 
