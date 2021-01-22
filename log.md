@@ -22,13 +22,13 @@
 
 **Links(s) to work**: Can't link the bot to github because of a token that would compromise my discord server's security 
 
-### Day __:
+### Day 04: January 21th, 2021
 
-**Today's Progress**:
+**Today's Progress**: Spent 4 hours building a discord bot with a friend. 
 
-**Thoughts**:
+**Thoughts**: Projects are fun, actually brings a lot of joy to the coding experience.
 
-**Links(s) to work**:
+**Links(s) to work**: Github Private Repo, will make public when bot is finished and I can remove the token from the project
 
 ### Day __:
 
