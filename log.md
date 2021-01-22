@@ -22,7 +22,7 @@
 
 **Links(s) to work**: Can't link the bot to github because of a token that would compromise my discord server's security 
 
-### Day 04: January 21th, 2021
+### Day 04: January 21st, 2021
 
 **Today's Progress**: Spent 4 hours building a discord bot with a friend. 
 
@@ -30,13 +30,13 @@
 
 **Links(s) to work**: Github Private Repo, will make public when bot is finished and I can remove the token from the project
 
-### Day __:
+### Day 04: January 21st, 2021
 
-**Today's Progress**:
+**Today's Progress**: Codewars 7kyu problem that's normally pretty easy but decided to restrict myself from using a for loop
 
-**Thoughts**:
+**Thoughts**: yes thats right, i'm back again on the same day after a ton of coding already. I went back to codewars and did a problem that is easily solved with an iterative function and I struggled trying to make it recursive showing how poor my skills with recursive problem solving are so I decided after an hour to leave it for tomorrow. 
 
-**Links(s) to work**:
+**Links(s) to work**: https://codewars.com/users/jpotvin-ezpz
 
 ### Day __:
 
